@@ -21,3 +21,4 @@
 а) Да  
    Выполнен полный объем заданий.
 
+![img](https://github.com/travickiy67/diploma-admission/blob/main/LK1.png)
